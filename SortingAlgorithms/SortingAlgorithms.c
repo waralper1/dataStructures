@@ -71,7 +71,9 @@ for(int j=0;j<cap;j++){
 }
 
 }
-
+//Insertion sort algorithm
+//Best case: cap
+//Worst case cap^2
 void InsertionSort(int array[],int cap){
 
 
